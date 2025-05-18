@@ -1,10 +1,2 @@
-correct_password = "bubilekjeborec"
-password = input("Zadej heslo:")
-if password == correct_password:
-    print("Heslo správně")
-else:
-    print("Heslo špatně")
-
-
-
-
+cisla = [3, 5, 9, 2, 8]
+print("Největší číslo je:", max(cisla))
